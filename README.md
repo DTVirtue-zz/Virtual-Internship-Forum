@@ -1,4 +1,4 @@
-# Projects
+# Virtual-Internship-Forum
 Created by: The Advanced Topics CS Class at Ransom Everglades
 Published: 2020
 
